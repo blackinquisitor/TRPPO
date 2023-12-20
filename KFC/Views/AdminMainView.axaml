@@ -1,0 +1,81 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="using:KFC.ViewModels"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="KFC.Views.AdminMainView"
+        x:DataType="vm:AdminMainViewModel"
+        x:Name="ThisWindow"
+        Title="AdminMainView"
+        WindowState="Maximized"
+        WindowStartupLocation="CenterScreen"
+        ExtendClientAreaToDecorationsHint="True">
+        
+        <Design.DataContext>
+                <vm:AdminMainViewModel/>
+        </Design.DataContext>
+
+        <Grid>
+                <Border Grid.Column="0" Background="GhostWhite"
+                        Margin="5" CornerRadius="10">
+                        <StackPanel Background="Transparent"
+                                    Margin="10">
+                                <Button Content="Меню блюд" HorizontalContentAlignment="Center" 
+                                        Background="MediumPurple"
+                                        VerticalContentAlignment="Center"
+                                        HorizontalAlignment="Stretch"
+                                        Height="30" Margin="5"
+                                        Command="{Binding OpenMenuDishPage}"/>
+                    
+                                <Button Content="Сотрудники" HorizontalContentAlignment="Center" 
+                                        Background="MediumPurple"
+                                        VerticalContentAlignment="Center"
+                                        HorizontalAlignment="Stretch"
+                                        Height="30" Margin="5"
+                                        Command="{Binding OpenEmployeesPage}"/>
+                                
+                                <Button Content="Заказы" HorizontalContentAlignment="Center" 
+                                        Background="MediumPurple"
+                                        VerticalContentAlignment="Center"
+                                        HorizontalAlignment="Stretch"
+                                        Height="30" Margin="5"
+                                        Command="{Binding OpenOrdersPage}"/>
+                    
+                                <Button Content="Создать отчёт" HorizontalContentAlignment="Center"
+                                        Background="MediumPurple"
+                                        VerticalContentAlignment="Center"
+                                        HorizontalAlignment="Stretch"
+                                        Height="30" Margin="5"
+                                        Command="{ReflectionBinding CreateReport}"
+                                        CommandParameter="{ReflectionBinding ElementName=ThisWindow}"/>
+                    
+                                <Button Content="Профиль" HorizontalContentAlignment="Center" 
+                                        Background="MediumPurple"
+                                        VerticalContentAlignment="Center"
+                                        HorizontalAlignment="Stretch"
+                                        Height="30" Margin="5"
+                                        Command="{Binding OpenProfilePage}"/>
+                                
+                                <Button Content="Выйти" HorizontalContentAlignment="Center"
+                                        Background="MediumPurple"
+                                        VerticalContentAlignment="Center"
+                                        HorizontalAlignment="Stretch"
+                                        Height="30" Margin="5"
+                                        Command="{ReflectionBinding ExitProfile}"
+                                        CommandParameter="{ReflectionBinding ElementName=ThisWindow}"/>
+                        </StackPanel>
+                </Border>
+                
+                <Border Grid.Column="1" Background="GhostWhite" Margin="3" 
+                        CornerRadius="10" Opacity="0.7">
+                        <TransitioningContentControl Opacity="1.3" Margin="5" Background="Transparent"
+                                                     Content="{Binding CurrentPage}" />
+                </Border>
+                
+                <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200"/>
+                        <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+        </Grid>
+</Window>

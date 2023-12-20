@@ -1,0 +1,73 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:KFC.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="KFC.Views.OrdersPageView"
+             x:DataType="viewModels:OrdersPageViewModel"
+             x:Name="ThisPage">
+    
+    <Design.DataContext>
+        <viewModels:OrdersPageViewModel/>
+    </Design.DataContext>
+    
+    <Grid Margin="10">
+        <Border Grid.Row="0" Grid.Column="0" 
+                Background="GhostWhite" 
+                CornerRadius="20" 
+                Margin="10">
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center"
+                       FontSize="32">Заказы</TextBlock>
+        </Border>
+        
+        
+        <Border Grid.Row="1"
+                Background="GhostWhite" CornerRadius="20"
+                Margin="10">
+            <DataGrid Name="OrdersGrid"
+                      ItemsSource="{Binding Orders}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="№" Binding="{Binding IdOrder}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Статус" Binding="{Binding Status}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Цена" Binding="{Binding Price}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Стол" Binding="{Binding Place}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Создан" Binding="{Binding DateAndTime}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Тип платы" Binding="{Binding TypePayment}" IsReadOnly="True"/>
+                    <DataGridTextColumn Header="Кол-во клиентов" Binding="{Binding CountClient}" IsReadOnly="True"/>
+                    <DataGridTemplateColumn Header="Инфо">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button HorizontalAlignment="Center" VerticalAlignment="Center"
+                                        Background="Transparent"
+                                        Command="{Binding ElementName=ThisPage, Path=InfoOrder}" 
+                                        CommandParameter="{Binding }"
+                                        CornerRadius="50">
+                                    <TextBlock>Инфо</TextBlock>
+                                </Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+                <DataGrid.RowDetailsTemplate>
+                        <DataTemplate>
+                                <DataGrid Name="DishesGrid" 
+                                          ItemsSource="{ReflectionBinding OrderDishes}">
+                                        <DataGrid.Columns>
+                                                <DataGridTextColumn Header="Название" IsReadOnly="True"
+                                                        Binding="{ReflectionBinding IdDishNavigation.Name}"/>
+                                                <DataGridTextColumn Header="Кол-во" IsReadOnly="True"
+                                                        Binding="{ReflectionBinding Count}"/>
+                                        </DataGrid.Columns>
+                                </DataGrid>
+                        </DataTemplate>
+                </DataGrid.RowDetailsTemplate>
+            </DataGrid>
+        </Border>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+    </Grid>
+</UserControl>

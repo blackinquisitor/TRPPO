@@ -1,0 +1,486 @@
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\KFC.exe
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\KFC.deps.json
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\KFC.runtimeconfig.json
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\KFC.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\KFC.pdb
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.ReactiveUI.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ColorTextBlock.Avalonia.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\DialogHost.Avalonia.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\DynamicData.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Humanizer.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Markdown.Avalonia.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\MsBox.Avalonia.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Npgsql.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ReactiveUI.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Splat.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.csproj.AssemblyReference.cache
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\resources
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.AssemblyInfoInputs.cache
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.AssemblyInfo.cs
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.csproj.CoreCompileInputs.cache
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\references
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\original.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\original.pdb
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\refint\KFC.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.pdb
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.csproj.CopyComplete
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.genruntimeconfig.cache
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\ref\KFC.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.csproj.ResolveComReference.cache
+C:\Users\v-pc\Documents\yчёба\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.sourcelink.json
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\refint\KFC.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.csproj.ResolveComReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\resources
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.sourcelink.json
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.ReactiveUI.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ColorTextBlock.Avalonia.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\DialogHost.Avalonia.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\DynamicData.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Humanizer.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Markdown.Avalonia.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\MsBox.Avalonia.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Npgsql.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ReactiveUI.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Splat.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\references
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\original.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\original.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\KFC.exe
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\KFC.deps.json
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\KFC.runtimeconfig.json
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\KFC.dll
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\bin\Debug\net8.0\KFC.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.csproj.CopyComplete
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\KFC.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Рабочий стол\8лаба\KFC\KFC\obj\Debug\net8.0\ref\KFC.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\KFC.exe
+C:\8laba\KFC\KFC\bin\Debug\net8.0\KFC.deps.json
+C:\8laba\KFC\KFC\bin\Debug\net8.0\KFC.runtimeconfig.json
+C:\8laba\KFC\KFC\bin\Debug\net8.0\KFC.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\KFC.pdb
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Base.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Native.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.ReactiveUI.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Avalonia.X11.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ColorTextBlock.Avalonia.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\DialogHost.Avalonia.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\DynamicData.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Humanizer.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Markdown.Avalonia.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\MsBox.Avalonia.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Npgsql.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ReactiveUI.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\SkiaSharp.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Splat.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\System.CodeDom.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\System.Reactive.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\8laba\KFC\KFC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\8laba\KFC\KFC\obj\Debug\net8.0\KFC.csproj.AssemblyReference.cache
+C:\8laba\KFC\KFC\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\8laba\KFC\KFC\obj\Debug\net8.0\KFC.csproj.ResolveComReference.cache
+C:\8laba\KFC\KFC\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\8laba\KFC\KFC\obj\Debug\net8.0\Avalonia\resources
+C:\8laba\KFC\KFC\obj\Debug\net8.0\KFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\8laba\KFC\KFC\obj\Debug\net8.0\KFC.AssemblyInfoInputs.cache
+C:\8laba\KFC\KFC\obj\Debug\net8.0\KFC.AssemblyInfo.cs
+C:\8laba\KFC\KFC\obj\Debug\net8.0\KFC.csproj.CoreCompileInputs.cache
+C:\8laba\KFC\KFC\obj\Debug\net8.0\KFC.sourcelink.json
+C:\8laba\KFC\KFC\obj\Debug\net8.0\Avalonia\references
+C:\8laba\KFC\KFC\obj\Debug\net8.0\Avalonia\original.dll
+C:\8laba\KFC\KFC\obj\Debug\net8.0\Avalonia\original.pdb
+C:\8laba\KFC\KFC\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\8laba\KFC\KFC\obj\Debug\net8.0\refint\KFC.dll
+C:\8laba\KFC\KFC\obj\Debug\net8.0\KFC.dll
+C:\8laba\KFC\KFC\obj\Debug\net8.0\KFC.pdb
+C:\8laba\KFC\KFC\obj\Debug\net8.0\KFC.csproj.CopyComplete
+C:\8laba\KFC\KFC\obj\Debug\net8.0\KFC.genruntimeconfig.cache
+C:\8laba\KFC\KFC\obj\Debug\net8.0\ref\KFC.dll

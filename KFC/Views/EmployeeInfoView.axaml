@@ -1,0 +1,67 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:kfc="using:KFC"
+        xmlns:vm="using:KFC.ViewModels"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="KFC.Views.EmployeeInfoView"
+        x:DataType="vm:EmployeeInfoViewModel"
+        Title="EmployeeInfoView">
+    
+        <Design.DataContext>
+                <vm:EmployeeInfoViewModel/>
+        </Design.DataContext>
+        
+        <Window.Resources>
+                <kfc:BitmapAssetValueConverter x:Key="BitmapAssetValueConverter"/>
+        </Window.Resources>
+    
+        <Grid>
+                <Image Grid.Column="0" Grid.Row="0" Grid.RowSpan="5"
+                       Source="{Binding SelectUserNow.Photo, 
+                       Converter={StaticResource BitmapAssetValueConverter}}"
+                       VerticalAlignment="Top" MaxWidth="300"
+                       HorizontalAlignment="Center" Margin="5"/>
+                
+                <TextBlock Grid.Column="2" Grid.Row="0" Text="{Binding SelectUserNow.Fname}"
+                           Margin="5"/>
+                <TextBlock Grid.Column="1" Grid.Row="0" Text="Имя" Margin="5"/>
+                
+                <TextBlock Grid.Column="2" Grid.Row="1" Text="{Binding SelectUserNow.Lname}"
+                           Margin="5"/>
+                <TextBlock Grid.Column="1" Grid.Row="1" Text="Отчество" Margin="5"/>
+                
+                <TextBlock Grid.Column="2" Grid.Row="2" Text="{Binding SelectUserNow.Sname}"
+                           Margin="5"/>
+                <TextBlock Grid.Column="1" Grid.Row="2" Text="Фамилия" Margin="5"/>
+                
+                <TextBlock Grid.Column="2" Grid.Row="3" Text="{Binding SelectUserNow.IdPostNavigation.Name}"
+                           Margin="5"/>
+                <TextBlock Grid.Column="1" Grid.Row="3" Text="Должность" Margin="5"/>
+                
+                <TextBlock Grid.Column="2" Grid.Row="4" Text="{Binding SelectUserNow.IdStatusNavigation.Name}"
+                           Margin="5" VerticalAlignment="Top"/>
+                <TextBlock Grid.Column="1" Grid.Row="4" Text="Статус" Margin="5" VerticalAlignment="Top"/>
+                
+                <Image Grid.Column="3" Grid.Row="0" Grid.RowSpan="5"
+                       Source="{Binding SelectUserNow.EmplContract, 
+                       Converter={StaticResource BitmapAssetValueConverter}}"
+                       VerticalAlignment="Top" HorizontalAlignment="Center" Margin="5" MaxWidth="300"/>
+                
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+        </Grid>
+        
+</Window>

@@ -1,0 +1,35 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="using:KFC.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="KFC.Views.NewOrderPageView"
+             x:DataType="vm:NewOrderPageViewModel"
+             x:Name="ThisPage">
+    
+    <Design.DataContext>
+        <vm:NewOrderPageViewModel/>
+    </Design.DataContext>
+    
+    <StackPanel Margin="10">
+        <DataGrid ItemsSource="{Binding Dishes}"
+                  Margin="5">
+            <DataGrid.Columns>
+                <DataGridTextColumn IsReadOnly="True" Header="Название" Binding="{Binding Name}"/>
+                <DataGridTextColumn IsReadOnly="True" Header="Цена" Binding="{Binding Price}"/>
+                <DataGridTextColumn IsReadOnly="False" Header="Кол-вл" Binding="{Binding CountDishes}"/>
+                <DataGridCheckBoxColumn IsReadOnly="False" Header="Добавить" Binding="{Binding SelectDish}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        
+        <TextBox Text="{Binding Place}" Watermark="Место" Margin="5"/>
+        <TextBox Text="{Binding CountClient}" Watermark="Кол-во клиентов" Margin="5"/>
+        <TextBlock Text="{Binding Price}" Margin="5"/>
+        
+        <Button Content="Принять"  Background="MediumPurple"
+                Command="{Binding AcceptOrder}"
+                CornerRadius="7.5"
+                CommandParameter="{Binding $parent[Window]}"/>
+    </StackPanel>
+</UserControl>

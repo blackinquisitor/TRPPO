@@ -1,0 +1,77 @@
+﻿        <Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="using:KFC.ViewModels"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="KFC.Views.OrderInfoView"
+        x:DataType="vm:OrderInfoViewModel"
+        x:Name="ThisWindow"
+        Title="OrderInfoView">
+    
+        <Design.DataContext>
+                <vm:OrderInfoViewModel/>
+        </Design.DataContext>
+        
+        <Grid Margin="10">
+                <StackPanel Grid.Row="0">
+                        <TextBlock Text="{Binding SelectOrder.IdOrder}"
+                                   FontSize="25" Margin="5"/>
+                        <TextBlock Text="{Binding SelectOrder.Status}"
+                                   FontSize="25" Margin="5"/>
+                        <TextBlock Text="{Binding SelectOrder.DateAndTime}"
+                                   FontSize="25" Margin="5"/>
+                        <ComboBox ItemsSource="{Binding ComboBoxValues}" 
+                                  SelectedItem="{Binding SelectedValue, Mode=TwoWay}" 
+                                  FontSize="25" Margin="5"/>
+                        <TextBox Text="{Binding SelectOrder.CountClient}"
+                                 FontSize="25" Margin="5"/>
+                        <TextBox Text="{Binding SelectOrder.Price}"
+                                 FontSize="25" Margin="5"/>
+                        <TextBox Text="{Binding SelectOrder.Place}"
+                                 FontSize="25" Margin="5"/>
+                        <DataGrid Name="DishesGrid" 
+                                  ItemsSource="{Binding OrderDishes}">
+                                <DataGrid.Columns>
+                                        <DataGridTextColumn Header="Название" IsReadOnly="True"
+                                                            Binding="{Binding IdDishNavigation.Name}"/>
+                                        <DataGridTextColumn Header="Кол-во" IsReadOnly="True"
+                                                            Binding="{Binding Count}"/>
+                                </DataGrid.Columns>
+                        </DataGrid>
+                </StackPanel>
+                
+                <StackPanel Grid.Row="1" Orientation="Horizontal">
+                        <Button Command="{ReflectionBinding Delete}"
+                                CornerRadius="7.5"
+                                Background="MediumPurple"
+                                CommandParameter="{ReflectionBinding ElementName=ThisWindow}">
+                                <StackPanel Orientation="Horizontal" MaxHeight="30" Margin="5">
+                                        <TextBlock Text="Удалить" VerticalAlignment="Center" Margin="3"/>
+                                </StackPanel>
+                        </Button>
+                        <Button Command="{ReflectionBinding Cancel}"
+                                CornerRadius="7.5"
+                                Margin="10"
+                                Background="MediumPurple"
+                                CommandParameter="{ReflectionBinding ElementName=ThisWindow}">
+                                <StackPanel Orientation="Horizontal" MaxHeight="30" Margin="5">
+                                        <TextBlock Text="Отмена" VerticalAlignment="Center" Margin="3"/>
+                                </StackPanel>
+                        </Button>
+                        <Button Command="{ReflectionBinding Save}" 
+                                CornerRadius="7.5"
+                                Background="MediumPurple"
+                                CommandParameter="{ReflectionBinding ElementName=ThisWindow}">
+                                <StackPanel Orientation="Horizontal" MaxHeight="30" Margin="5">
+                                        <TextBlock Text="Сохранить" VerticalAlignment="Center" Margin="3"/>
+                                </StackPanel>
+                        </Button>
+                </StackPanel>
+                
+                <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+        </Grid>
+</Window>

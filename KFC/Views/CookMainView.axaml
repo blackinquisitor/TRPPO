@@ -1,0 +1,59 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="using:KFC.ViewModels"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="KFC.Views.CookMainView"
+        x:DataType="vm:CookMainViewModel"
+        x:Name="ThisWindow"
+        Title="CookMainView"
+        WindowState="Maximized"
+        WindowStartupLocation="CenterScreen"
+        ExtendClientAreaToDecorationsHint="True">
+        
+        <Design.DataContext>
+                <vm:CookMainViewModel/>
+        </Design.DataContext>
+        
+        <Grid>
+                <Border Grid.Column="0" Background="GhostWhite"
+                        Margin="5" CornerRadius="10">
+                        <StackPanel Background="Transparent"
+                                    Margin="10">
+                                <Button Content="Заказы" HorizontalContentAlignment="Center" 
+                                        Background="MediumPurple"
+                                        VerticalContentAlignment="Center"
+                                        HorizontalAlignment="Stretch"
+                                        Height="30" Margin="5"
+                                        Command="{Binding OpenOrdersCookPage}"/>
+                    
+                                <Button Content="Профиль" HorizontalContentAlignment="Center" 
+                                        Background="MediumPurple"
+                                        VerticalContentAlignment="Center"
+                                        HorizontalAlignment="Stretch"
+                                        Height="30" Margin="5"
+                                        Command="{Binding OpenProfilePage}"/>
+                                
+                                <Button Content="Выйти" HorizontalContentAlignment="Center"
+                                        Background="MediumPurple"
+                                        VerticalContentAlignment="Center"
+                                        HorizontalAlignment="Stretch"
+                                        Height="30" Margin="5"
+                                        Command="{ReflectionBinding ExitProfile}"
+                                        CommandParameter="{ReflectionBinding ElementName=ThisWindow}"/>
+                        </StackPanel>
+                </Border>
+                
+                <Border Grid.Column="1" Background="GhostWhite" Margin="3" 
+                        CornerRadius="10" Opacity="0.7">
+                        <TransitioningContentControl Opacity="1.3" Margin="5" Background="Transparent"
+                                                     Content="{Binding CurrentPage}" />
+                </Border>
+                
+                <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200"/>
+                        <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+        </Grid>
+</Window>

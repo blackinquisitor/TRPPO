@@ -1,0 +1,58 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="using:KFC.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="KFC.Views.MenuPageView"
+             x:DataType="vm:MenuPageViewModel"
+             x:Name="ThisPage">
+    
+        <Design.DataContext>
+            <vm:MenuPageViewModel/>
+        </Design.DataContext>
+    
+        <Grid>
+            <TextBlock Grid.Row="0"
+                       Text="Блюда" FontSize="30"/>
+           
+            <DataGrid ItemsSource="{Binding Dishes}"
+                      Grid.Row="1">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding IdDish}"/>
+                    <DataGridTextColumn Binding="{Binding Name}"/>
+                    <DataGridTextColumn Binding="{Binding Price}"/>
+                    <DataGridTemplateColumn>
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button HorizontalAlignment="Center" VerticalAlignment="Center"
+                                        Background="Transparent"
+                                        Command="{Binding ElementName=ThisPage, Path=RemoveDish}" 
+                                        CommandParameter="{Binding }"
+                                        CornerRadius="50">
+                                    <TextBlock>Удалить</TextBlock>
+                                </Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+            
+            <StackPanel Grid.Row="2">
+                <TextBox Watermark="Название" Margin="5" Text="{Binding Name}"/>
+                <TextBox Watermark="Цена" Margin="5" Text="{Binding Price}"/>
+                
+                <Button Content="Добавить"
+                        Command="{Binding AddDish}"
+                        CornerRadius="7.5"
+                        HorizontalAlignment="Center" Margin="5"
+                        Background="MediumPurple"/>
+            </StackPanel>
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+        </Grid>
+</UserControl>

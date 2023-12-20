@@ -1,0 +1,47 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModels="clr-namespace:KFC.ViewModels"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="KFC.Views.AuthorizationView"
+        x:Name="ThisWindow"
+        Title="AuthorizationView"
+        WindowState="Maximized"
+        WindowStartupLocation="CenterScreen"
+        ExtendClientAreaToDecorationsHint="True">
+    
+    <Design.DataContext>
+        <viewModels:AuthorizationViewModel/>
+    </Design.DataContext>
+    
+    <Border MinWidth="200" MaxWidth="500" 
+            Margin="15"
+            Background="GhostWhite" 
+            VerticalAlignment="Center" 
+            CornerRadius="25"
+            Padding="20">
+        <StackPanel>
+            <TextBlock FontWeight="Bold" FontSize="24" Text="Авторизация"
+                               Margin="5"/>
+          
+            <TextBox Watermark="Логин"
+                     Text="{ReflectionBinding Login}"
+                     Margin="5"/>
+            
+        
+            <TextBox Watermark="Пароль"
+                     Text="{ReflectionBinding Password}"
+                     PasswordChar="*"
+                     Margin="5"/>
+           
+                
+            <Button  Content="Вход"
+                     Command="{ReflectionBinding ButtonEnter}"
+                     CornerRadius="7.5"
+                     CommandParameter="{ReflectionBinding ElementName=ThisWindow}"
+                     Background="MediumPurple" Margin="5"
+                     HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Border>        
+</Window>

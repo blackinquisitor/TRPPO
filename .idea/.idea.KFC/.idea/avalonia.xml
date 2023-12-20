@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="KFC/App.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/AdminMainView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/AuthorizationView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/CheckView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/CookMainView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/EmployeeInfoView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/EmployeesPageView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/MainWindow.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/MenuPageView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/NewOrderPageView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/OrderInfoView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/OrdersCookPageView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/OrdersPageView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/OrdersWaiterPageView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/ProfilePageView.axaml" value="KFC/KFC.csproj" />
+        <entry key="KFC/Views/WaiterMainView.axaml" value="KFC/KFC.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
