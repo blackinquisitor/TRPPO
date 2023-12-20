@@ -1,0 +1,134 @@
+create table if not exists "Dishes"
+(
+    "IdDish" integer generated always as identity (start with 5),
+    "Name"   varchar(30)      not null,
+    "Price"  double precision not null,
+    constraint "Dishes_pk"
+        primary key ("IdDish")
+);
+
+alter table "Dishes"
+    owner to postgres;
+
+create table if not exists "Orders"
+(
+    "IdOrder"     integer generated always as identity (start with 12),
+    "Place"       varchar(20)      not null,
+    "Price"       double precision not null,
+    "DateAndTime" timestamp        not null,
+    "Status"      varchar(30)      not null,
+    "TypePayment" varchar(30),
+    "CountClient" integer          not null,
+    constraint "Orders_pk"
+        primary key ("IdOrder")
+);
+
+alter table "Orders"
+    owner to postgres;
+
+create table if not exists "OrderDish"
+(
+    "IdList"  integer generated always as identity (start with 16),
+    "IdDish"  integer not null,
+    "IdOrder" integer not null,
+    "Count"   integer not null,
+    constraint "OrderDish_pk"
+        primary key ("IdList"),
+    constraint "OrderDish_Dishes_IdDish_fk"
+        foreign key ("IdDish") references "Dishes",
+    constraint "OrderDish_Orders_IdOrder_fk"
+        foreign key ("IdOrder") references "Orders"
+);
+
+alter table "OrderDish"
+    owner to postgres;
+
+create table if not exists "Posts"
+(
+    "IdPost" integer generated always as identity (start with 4),
+    "Name"   varchar(20) not null,
+    constraint "Posts_pk"
+        primary key ("IdPost")
+);
+
+alter table "Posts"
+    owner to postgres;
+
+create table if not exists "StatusesUser"
+(
+    "IdStatus" integer generated always as identity (start with 3),
+    "Name"     varchar(50) not null,
+    constraint "StatusesUser_pk"
+        primary key ("IdStatus")
+);
+
+alter table "StatusesUser"
+    owner to postgres;
+
+create table if not exists "Users"
+(
+    "Login"        varchar(30) not null,
+    "Password"     varchar(30) not null,
+    "FName"        varchar(50) not null,
+    "SName"        varchar(50),
+    "LName"        varchar(50) not null,
+    "Photo"        varchar(500),
+    "EmplContract" varchar(500),
+    "IdUser"       integer generated always as identity (start with 11),
+    "IdPost"       integer     not null,
+    "IdStatus"     integer     not null,
+    constraint "Users_pk"
+        primary key ("IdUser"),
+    constraint "Users_Posts_IdPost_fk"
+        foreign key ("IdPost") references "Posts",
+    constraint "Users_StatusesUser_IdStatus_fk"
+        foreign key ("IdStatus") references "StatusesUser"
+);
+
+alter table "Users"
+    owner to postgres;
+
+create table if not exists "UsersOrders"
+(
+    "IdList"  integer generated always as identity (start with 10),
+    "IdUser"  integer not null,
+    "IdOrder" integer not null,
+    constraint "UsersOrders_pk"
+        primary key ("IdList"),
+    constraint "UsersOrders_Orders_IdOrder_fk"
+        foreign key ("IdOrder") references "Orders",
+    constraint "UsersOrders_Users_IdUser_fk"
+        foreign key ("IdUser") references "Users"
+);
+
+alter table "UsersOrders"
+    owner to postgres;
+
+create table if not exists "WorkShifts"
+(
+    "IdShift" integer generated always as identity,
+    "Start"   timestamp not null,
+    "End"     timestamp not null,
+    constraint "WorkShifts_pk"
+        primary key ("IdShift")
+);
+
+alter table "WorkShifts"
+    owner to postgres;
+
+create table if not exists "UserShift"
+(
+    "IdList"  integer generated always as identity,
+    "IdUser"  integer     not null,
+    "IdShift" integer     not null,
+    "Place"   varchar(50) not null,
+    constraint "UserShift_pk"
+        primary key ("IdList"),
+    constraint "UserShift_Users_IdUser_fk"
+        foreign key ("IdUser") references "Users",
+    constraint "UserShift_WorkShifts_IdShift_fk"
+        foreign key ("IdShift") references "WorkShifts"
+);
+
+alter table "UserShift"
+    owner to postgres;
